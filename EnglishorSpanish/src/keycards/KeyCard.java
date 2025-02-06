@@ -1,5 +1,7 @@
 package keycards;
 
+import permissions.Permission;
+
 public abstract class KeyCard {
     protected String cardId;
     protected String owner;
