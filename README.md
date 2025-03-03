@@ -20,3 +20,4 @@ The importances of the project is allow student to do
 - Card generation or modification will be logged with necessary info
 3. Card management 
 - Add, modify, revoke permission of each card
+![image](https://github.com/user-attachments/assets/cacf8231-9352-4448-ab39-58a90dad0043)
