@@ -1,0 +1,31 @@
+Keycard 001 denied access to room 302
+Keycard manager101 denied access to room 102
+Keycard manager101 denied access to room 302
+Manager added permission: Keycard 101 -> Room GYM
+Manager added permission: Keycard 101 -> Room 101
+Manager added permission: Keycard 101 -> Room 302
+Keycard 101 entered room 101
+Keycard 101 entered room 101
+Keycard 101 entered room 302
+Keycard 101 entered room GYM
+Keycard 101 entered room 101
+Keycard 101 entered room 302
+Keycard 101 entered room GYM
+Keycard 101 entered room 302
+Keycard 101 entered room 101
+Keycard 101 entered room 302
+Keycard 101 entered room GYM
+Keycard 101 entered room 302
+Keycard 101 entered room 101
+Keycard 101 entered room 302
+Manager added permission: Keycard kuyrai -> Room 101
+Manager added permission: Keycard kuyrai -> Room 101
+Manager added permission: Keycard kuyrai -> Room GYM
+Manager added permission: Keycard kuyrai -> Room 302
+Manager added permission: Keycard kuyrai -> Room 103
+Keycard kuyrai entered room 103
+Keycard kuyrai entered room 302
+Keycard kuyrai entered room 101
+Keycard kuyrai entered room 103
+Keycard kuyrai entered room 302
+Keycard 101 denied access to room 102
